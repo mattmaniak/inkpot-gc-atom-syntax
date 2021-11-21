@@ -1,5 +1,18 @@
-# inkpot-gc-atom-syntax theme
+# Inkpot GC Atom Syntax
 
-A short description of your theme.
+## Description
+Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the Atom.
+This is only a theme, not full config. Based on screenshots from his stream.
+Some colors were taken directly from inkpot_gc.vim, others from YouTube
+screenshots, some from my initial interpretation called
+[Inkpot GC GTK](https://github.com/mattmaniak/inkpot_gc_gtk). Some may be
+a little vary in comparison to GVim/Sublime original due the optimization for
+the Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## The original one:
+- https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim.
+
+## Check:
+- http://gynvael.coldwind.pl/,
+- https://www.youtube.com/user/GynvaelEN,
+- https://www.youtube.com/user/GynvaelColdwind.
