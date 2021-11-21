@@ -1,0 +1,15 @@
+{
+  "name": "inkpot-gc-atom-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the Atom.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/inkpot-gc-atom-syntax",
+  "license": "The Unlicense",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
